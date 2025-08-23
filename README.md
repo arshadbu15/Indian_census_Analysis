@@ -2,12 +2,11 @@
 
 SQL analysis of Indian census data.
 
-solved multiple queries from easy to advance level
+This data contains many different metrics like population, literacy rate, gender ratio, district, state, growth etc. 
 
-You can see multiple subqueries and joins applied to solve a single problem
+You can see multiple question where I have used  multiple concept sql from subqueries, aggregate function, joins, to window function etc. Some question which required some derived equation are also solved in the analysis file
 
-There were queries which required some math and statistics they are solved with different approach
+From this analysis I have gathered many important metrics from the data like seperated literate and illiterate population from total population, top 3 district in each state with highest literacy rate,previous sensus data, least or most literate district Or state etc all these insight can help in to tackle different problems
 
-you can also find some question of Window function 
 
 dataset1 and dataset2 is the datasource for this analysis you can directly import it in mysql
