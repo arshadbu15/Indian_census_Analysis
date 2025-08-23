@@ -8,4 +8,6 @@ You can see multiple subqueries and joins applied to solve a single problem
 
 There were queries which required some math and statistics they are solved with different approach
 
-you can also find some question of Window function  
+you can also find some question of Window function 
+
+dataset1 and dataset2 is the datasource for this analysis you can directly import it in mysql
