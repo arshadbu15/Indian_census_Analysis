@@ -1,4 +1,4 @@
-# Indian_census_Analysis
+# Indian_census_Analysis_sql
 
 SQL analysis of Indian census data.
 
